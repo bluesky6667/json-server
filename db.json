@@ -10,6 +10,8 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "tracing": {
+    "count": 15
   }
-  "tracingCount": 15
 }
