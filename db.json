@@ -2,7 +2,36 @@
   "tracing": {
     "count": 12
   },
-  "dailyTracingCountList": [],
+  "dailyTracingCountList": [
+    {
+      x: 1594479600,
+      y: 5,
+    },
+    {
+      x: 1594566000,
+      y: 3,
+    },
+    {
+      x: 1594652400,
+      y: 3,
+    },
+    {
+      x: 1594738800,
+      y: 6,
+    },
+    {
+      x: 1594825200,
+      y: 5,
+    },
+    {
+      x: 1594911600,
+      y: 5,
+    },
+    {
+      x: 1594998000,
+      y: 1,
+    },
+  ],
   "contaminatedZone": {
     "count": 5
   },
