@@ -1,1 +1,233 @@
-
+{
+  "tracing": {
+    "count": 10
+  },
+  "dailyTracingCountList": [
+    {
+      "x": 1593961200,
+      "y": 5
+    },
+    {
+      "x": 1594047600,
+      "y": 3
+    },
+    {
+      "x": 1594134000,
+      "y": 3
+    },
+    {
+      "x": 1594220400,
+      "y": 6
+    },
+    {
+      "x": 1594306800,
+      "y": 5
+    },
+    {
+      "x": 1594393200,
+      "y": 5
+    },
+    {
+      "x": 1594479600,
+      "y": 1
+    }
+  ],
+  "contaminatedZone": {
+    "count": 5
+  },
+  "highRisk": {
+    "count": 8
+  },
+  "tracingList": [
+    {
+      "tracingNum": 1,
+      "tagId": "PnT_LINE_A11",
+      "targetName": "Sarah Miller",
+      "department": "Production Line A",
+      "position": "Line Worker: Line A",
+      "authorized": 1,
+      "contactDuration": 10,
+      "startDate": 1594514980,
+      "endDate": 1594601380,
+      "contactProximity": 2.5,
+      "sterilizationDuration": 30,
+      "diseaseName": "COVID-19",
+      "diseaseNum": 1,
+      "dataSettingComplete": "P",
+      "regDate": 1594601380,
+      "closedZone": "Y",
+      "detectProximity": 5
+    },
+    {
+      "tracingNum": 2,
+      "tagId": "PnT_QC_A36",
+      "targetName": "Thomas Ng",
+      "department": "Quality Control",
+      "position": "Quality Control Manager",
+      "authorized": 1,
+      "contactDuration": 45,
+      "startDate": 1594429041,
+      "endDate": 1594601841,
+      "contactProximity": 2.5,
+      "sterilizationDuration": 30,
+      "diseaseName": "COVID-19",
+      "diseaseNum": 1,
+      "dataSettingComplete": "C",
+      "regDate": 1594601841,
+      "closedZone": "Y",
+      "detectProximity": 5
+    },
+    {
+      "tracingNum": 3,
+      "tagId": "PnT_LINE_B31",
+      "targetName": "William Vaughn",
+      "department": "Production Line B",
+      "position": "Line Worker: Line B",
+      "authorized": 1,
+      "contactDuration": 30,
+      "startDate": 1594429220,
+      "endDate": 1594602020,
+      "contactProximity": 2.5,
+      "sterilizationDuration": 30,
+      "diseaseName": "COVID-19",
+      "diseaseNum": 1,
+      "dataSettingComplete": "P",
+      "regDate": 1594602020,
+      "closedZone": "N",
+      "detectProximity": 5
+    },
+    {
+      "tracingNum": 4,
+      "tagId": "PnT_ACCT_20",
+      "targetName": "Andrea Cortez",
+      "department": "Accounting",
+      "position": "HR Manager",
+      "authorized": 1,
+      "contactDuration": 100,
+      "startDate": 1594429220,
+      "endDate": 1594602020,
+      "contactProximity": 3,
+      "sterilizationDuration": 30,
+      "diseaseName": "MERS",
+      "diseaseNum": 2,
+      "dataSettingComplete": "C",
+      "regDate": 1594602020,
+      "closedZone": "Y",
+      "detectProximity": 5
+    },
+    {
+      "tracingNum": 5,
+      "tagId": "PnT_LINE_B11",
+      "targetName": "Andrew Graham",
+      "department": "Production Line B",
+      "position": "Mover: Logistics",
+      "authorized": 1,
+      "contactDuration": 120,
+      "startDate": 1594342820,
+      "endDate": 1594429220,
+      "contactProximity": 3,
+      "sterilizationDuration": 30,
+      "diseaseName": "COVID-19",
+      "diseaseNum": 1,
+      "dataSettingComplete": "C",
+      "regDate": 1594429220,
+      "closedZone": "Y",
+      "detectProximity": 5
+    },
+    {
+      "tracingNum": 6,
+      "tagId": "PnT_LINE_C25",
+      "targetName": "Maria Rodrigez",
+      "department": "Production Line C",
+      "position": "Mover: Logistics",
+      "authorized": 1,
+      "contactDuration": 80,
+      "startDate": 1594342820,
+      "endDate": 1594429220,
+      "contactProximity": 3,
+      "sterilizationDuration": 30,
+      "diseaseName": "MERS",
+      "diseaseNum": 2,
+      "dataSettingComplete": "C",
+      "regDate": 1594429220,
+      "closedZone": "Y",
+      "detectProximity": 5
+    },
+    {
+      "tracingNum": 7,
+      "tagId": "PnT_QC_A12",
+      "targetName": "Jose Mendez",
+      "department": "Quality Control",
+      "position": "Quality Control Manager",
+      "authorized": 1,
+      "contactDuration": 10,
+      "startDate": 1594256420,
+      "endDate": 1594429220,
+      "contactProximity": 3,
+      "sterilizationDuration": 30,
+      "diseaseName": "COVID-19",
+      "diseaseNum": 1,
+      "dataSettingComplete": "C",
+      "regDate": 1594429220,
+      "closedZone": "N",
+      "detectProximity": 5
+    },
+    {
+      "tracingNum": 8,
+      "tagId": "PnT_LINE_A11",
+      "targetName": "Harry Sanders",
+      "department": "Production Line A",
+      "position": "Line Worker: Line A",
+      "authorized": 1,
+      "contactDuration": 60,
+      "startDate": 1594256420,
+      "endDate":1594515620,
+      "contactProximity": 3,
+      "sterilizationDuration": 30,
+      "diseaseName": "MERS",
+      "diseaseNum": 2,
+      "dataSettingComplete": "C",
+      "regDate": 1594515620,
+      "closedZone": "Y",
+      "detectProximity": 5
+    },
+    {
+      "tracingNum": 9,
+      "tagId": "PnT_ADMIN_A35",
+      "targetName": "June Becker",
+      "department": "Administrative",
+      "position": "Head of Facility",
+      "authorized": 0,
+      "contactDuration": 10,
+      "startDate": 1594256420,
+      "endDate": 1594429220,
+      "contactProximity": 3,
+      "sterilizationDuration": 30,
+      "diseaseName": "COVID-19",
+      "diseaseNum": 1,
+      "dataSettingComplete": "C",
+      "regDate": 1594429220,
+      "closedZone": "Y",
+      "detectProximity": 5
+    },
+    {
+      "tracingNum": 10,
+      "tagId": "PnT_LINE_A11",
+      "targetName": "Harris Dain",
+      "department": "Production Line A",
+      "position": "Line Worker: Line A",
+      "authorized": 1,
+      "contactDuration": 15,
+      "startDate": 1594170020,
+      "endDate": 1594429220,
+      "contactProximity": 3,
+      "sterilizationDuration": 30,
+      "diseaseName": "MERS",
+      "diseaseNum": 2,
+      "dataSettingComplete": "F",
+      "regDate": 1594429220,
+      "closedZone": "N",
+      "detectProximity": 5
+    }
+  ]
+}
