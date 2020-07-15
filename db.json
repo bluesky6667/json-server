@@ -229,5 +229,22 @@
       "closedZone": "N",
       "detectProximity": 5
     }
+  ],
+  "contactCnt": {
+    "count": 10
+  },
+  "dailyContactCountList": [
+    {
+      "x": 1594306800,
+      "y": 5
+    },
+    {
+      "x": 1594393200,
+      "y": 5
+    },
+    {
+      "x": 1594479600,
+      "y": 1
+    }
   ]
 }
