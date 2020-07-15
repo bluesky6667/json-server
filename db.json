@@ -208,7 +208,7 @@
       "y": 1
     }
   ],
-  contaminatedZone: {
+  "contaminatedZone": {
     "count": 5
   }
 }
